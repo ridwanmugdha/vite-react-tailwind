@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "AquaSteel Thermo",
+    "color": "Silver",
+    "height_cm": 28,
+    "price_eur": 19.99,
+    "carry": "Hot and Cold",
+    "description": "Double-walled stainless steel bottle that keeps beverages hot for 12 hours and cold for 24 hours."
+  },
+  {
+    "id": 2,
+    "name": "HydroMate Slim",
+    "color": "Blue",
+    "height_cm": 24,
+    "price_eur": 9.99,
+    "carry": "Cold",
+    "description": "Lightweight plastic bottle perfect for everyday hydration on the go."
+  },
+  {
+    "id": 3,
+    "name": "EcoGlass Pure",
+    "color": "Transparent",
+    "height_cm": 25,
+    "price_eur": 14.5,
+    "carry": "Cold",
+    "description": "Eco-friendly glass bottle with a bamboo lid, ideal for cold water and juices."
+  },
+  {
+    "id": 4,
+    "name": "ThermaFlex Pro",
+    "color": "Black",
+    "height_cm": 30,
+    "price_eur": 24.99,
+    "carry": "Hot and Cold",
+    "description": "Premium thermal bottle with silicone grip and leak-proof cap."
+  },
+  {
+    "id": 5,
+    "name": "CoolMate Frost",
+    "color": "Teal",
+    "height_cm": 26,
+    "price_eur": 11.99,
+    "carry": "Cold",
+    "description": "Insulated plastic bottle with flip-top lid and built-in handle."
+  },
+  {
+    "id": 6,
+    "name": "ActiveTrail Hydra",
+    "color": "Red",
+    "height_cm": 22,
+    "price_eur": 12.99,
+    "carry": "Cold",
+    "description": "Durable sports bottle with one-click open and carrying loop."
+  },
+  {
+    "id": 7,
+    "name": "SteelCore Max",
+    "color": "Gunmetal",
+    "height_cm": 29,
+    "price_eur": 21.5,
+    "carry": "Hot and Cold",
+    "description": "High-capacity bottle with sleek finish and vacuum insulation."
+  },
+  {
+    "id": 8,
+    "name": "UrbanSip Mini",
+    "color": "Pink",
+    "height_cm": 18,
+    "price_eur": 8.99,
+    "carry": "Cold",
+    "description": "Compact and stylish bottle for kids or short outings."
+  },
+  {
+    "id": 9,
+    "name": "ChillZone Flow",
+    "color": "Green",
+    "height_cm": 27,
+    "price_eur": 10.5,
+    "carry": "Cold",
+    "description": "Ergonomic design with anti-slip grip and push-button lid."
+  },
+  {
+    "id": 10,
+    "name": "Volcano Thermix",
+    "color": "Copper",
+    "height_cm": 31,
+    "price_eur": 26.99,
+    "carry": "Hot and Cold",
+    "description": "Luxury copper-coated thermal bottle with long-lasting temperature retention."
+  }
+]
